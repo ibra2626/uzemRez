@@ -19,7 +19,8 @@ Ancak yapılacak projede tasarlanan site üzerinden tek tıkla kullanıcıya bil
 2-) Raporlama işlemi yapılarak hafta, ay, yıl bazında birimde ki durum kontrol edilebilecek.
 
 3-) Birim içerisinde yapılan optikleri teslim alma, optikleri okuma, optikleri teslim etme gibi işlemlerin kim tarafından, hangi tarihte yapıldığı sistemde tutulacak. Gerektiğinde bu işlemler kontrol edilebilecek.” 
-Kullanılacak yazılım teknolojileri nelerdir?
+
+##Kullanılacak yazılım teknolojileri nelerdir?
 
 1-) PHP
 2-)Codeigniter
