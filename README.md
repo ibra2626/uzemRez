@@ -1,6 +1,6 @@
 ## Uzem Rezervasyon Sistemi
 
-# Bilecik Üniversitesi için yapılan rezervasyon sistemi
+Bilecik Üniversitesi için yapılan rezervasyon sistemi
 
 ## Projeye neden ihtiyaç duyuluyor?
 
