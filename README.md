@@ -13,19 +13,44 @@ Projenin detaylı olarak amacı nedir?
 
 ## Yapılacak projede varsa ekstra amaçlar nelerdir?
 
-1-) Optikler değerlendirildikten sonra notlar excel tablosunda listelenmektedir. Hemen ardından birimde ki 
+1. Optikler değerlendirildikten sonra notlar excel tablosunda listelenmektedir. Hemen ardından birimde ki 
 öğretim görevlisi tarafından ilgili kişiye sınav sonuçları mail ortamından gönderilmektedir.
 Ancak yapılacak projede tasarlanan site üzerinden tek tıkla kullanıcıya bilgilendirme maili gönderilecek ve sonuçlar internet sayfası üzerinden anında temin edilebilecek.
 
-2-) Raporlama işlemi yapılarak hafta, ay, yıl bazında birimde ki durum kontrol edilebilecek.
+2. Raporlama işlemi yapılarak hafta, ay, yıl bazında birimde ki durum kontrol edilebilecek.
 
-3-) Birim içerisinde yapılan optikleri teslim alma, optikleri okuma, optikleri teslim etme gibi işlemlerin kim tarafından, hangi tarihte yapıldığı sistemde tutulacak. Gerektiğinde bu işlemler kontrol edilebilecek.” 
+3. Birim içerisinde yapılan optikleri teslim alma, optikleri okuma, optikleri teslim etme gibi işlemlerin kim tarafından, hangi tarihte yapıldığı sistemde tutulacak. Gerektiğinde bu işlemler kontrol edilebilecek.” 
 
 ## Kullanılacak yazılım teknolojileri nelerdir?
 
-1-) PHP
-2-)Codeigniter
-3-)Bootstrap
-4-)Jquery
-5-)Ajax
+1. PHP
+2. Codeigniter
+3. Bootstrap
+4. Jquery
+5. Ajax
 
+
+# AYARLAR
+
+  Projenin stabil çalışması için bazı ayarların sunucu bilgilerine göre
+değiştirilmesi gerekir.
+
+Base_url : application->config->config.php dosyasýnda base url sunucu
+bilgisine göre değiştirilmelidir.
+
+DataBase Bilgileri : application->config->database.php dosyasından sunucuya
+uygun database ayarları yapılmalıdır.
+
+Mail Ayarları : 
+     application->helpers->mailgonder_helper.php dosyasýnda mailAyar()
+fonksiyonunda bulunan ayarlar değiştirilmelidir.Smtpport,user,password vb.
+
+Yönetici İçin Gİriş Bilgileri : 
+   username = admin@admin.com
+   password = 1
+Kullanıcı için Giriş Bilgileri :
+   username = kullanici@bilecik.edu.tr
+   password = 1
+Öğrenci İçin Giriş Bilgileri :
+   username = ogrenci@bilecik.edu.tr
+   password = 1
