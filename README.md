@@ -10,7 +10,8 @@ Projenin detaylı olarak amacı nedir?
 
    Yapılacak rezervasyon sistemi ile optiklerini değerlendirmek isteyen öğretim görevlilerini sayfaya yönlendirerek belirtilen uygun zamana randevu almaları, seçilen gün ve saatte optikleri UZEM birimine teslim etmeleri amaçlanmaktadır.
 .
-##Yapılacak projede varsa ekstra amaçlar nelerdir?
+
+###Yapılacak projede varsa ekstra amaçlar nelerdir?
 
 1-) Optikler değerlendirildikten sonra notlar excel tablosunda listelenmektedir. Hemen ardından birimde ki 
 öğretim görevlisi tarafından ilgili kişiye sınav sonuçları mail ortamından gönderilmektedir.
@@ -20,7 +21,7 @@ Ancak yapılacak projede tasarlanan site üzerinden tek tıkla kullanıcıya bil
 
 3-) Birim içerisinde yapılan optikleri teslim alma, optikleri okuma, optikleri teslim etme gibi işlemlerin kim tarafından, hangi tarihte yapıldığı sistemde tutulacak. Gerektiğinde bu işlemler kontrol edilebilecek.” 
 
-##Kullanılacak yazılım teknolojileri nelerdir?
+####Kullanılacak yazılım teknolojileri nelerdir?
 
 1-) PHP
 2-)Codeigniter
