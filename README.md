@@ -1,3 +1,5 @@
+# DAHA DETAYLI BİLGİLER "UZEM REZERVASYON SİSTEMİ RAPOR" DOSYASINDA MEVCUTTUR
+
 ## Uzem Rezervasyon Sistemi
 
 Bilecik Üniversitesi için yapılan rezervasyon sistemi
