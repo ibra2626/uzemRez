@@ -32,7 +32,7 @@ Ancak yapılacak projede tasarlanan site üzerinden tek tıkla kullanıcıya bil
 
 # AYARLAR
 
-  Projenin stabil çalışması için bazı ayarların sunucu bilgilerine göre
+Projenin stabil çalışması için bazı ayarların sunucu bilgilerine göre
 değiştirilmesi gerekir.
 
 Base_url : application->config->config.php dosyasýnda base url sunucu
@@ -42,12 +42,15 @@ DataBase Bilgileri : application->config->database.php dosyasından sunucuya
 uygun database ayarları yapılmalıdır.
 
 Mail Ayarları : 
-     application->helpers->mailgonder_helper.php dosyasýnda mailAyar()
+
+application->helpers->mailgonder_helper.php dosyasýnda mailAyar()
 fonksiyonunda bulunan ayarlar değiştirilmelidir.Smtpport,user,password vb.
 
-Yönetici İçin Gİriş Bilgileri : 
+Yönetici İçin Gİriş Bilgileri
+
    username = admin@admin.com
    password = 1
+   
 Kullanıcı için Giriş Bilgileri :
    username = kullanici@bilecik.edu.tr
    password = 1
