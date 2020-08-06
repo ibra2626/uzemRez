@@ -47,13 +47,13 @@ application->helpers->mailgonder_helper.php dosyasýnda mailAyar()
 fonksiyonunda bulunan ayarlar değiştirilmelidir.Smtpport,user,password vb.
 
 Yönetici İçin Gİriş Bilgileri
-
    username = admin@admin.com
    password = 1
    
-Kullanıcı için Giriş Bilgileri :
+Kullanıcı için Giriş Bilgileri
    username = kullanici@bilecik.edu.tr
    password = 1
-Öğrenci İçin Giriş Bilgileri :
+   
+Öğrenci İçin Giriş Bilgileri
    username = ogrenci@bilecik.edu.tr
    password = 1
