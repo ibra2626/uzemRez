@@ -1,0 +1,1 @@
+<?php $this->load->view('kullanici_includes/include_script');?>
